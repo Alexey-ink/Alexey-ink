@@ -1,6 +1,12 @@
-## 💫 Hi there! I'm Alexey Shihalev
-🔭 I'm currently studying at the Peter the Great St. Petersburg Polytechnic University, specializing in Mathematics and Computer Science<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=555&lines=👋+Hello!+My name's Alexey Shihalev" alt="Typing SVG" />
+  </a>
+</h1>
 
+<!-- ## 💫 Hi there! I'm Alexey Shihalev -->
+
+🔭 I'm currently studying at the Peter the Great St. Petersburg Polytechnic University, specializing in Mathematics and Computer Science<br>
 
 ## 💻 Tech Stack
 
